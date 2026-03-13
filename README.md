@@ -100,7 +100,6 @@ Data analysis project exploring Pizza Hut sales trends and revenue insights.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sathviknanduri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathviknanduri&layout=compact&theme=tokyonight&border_radius=10"/>
 
