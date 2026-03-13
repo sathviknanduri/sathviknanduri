@@ -113,3 +113,19 @@ Python • SQL • Data Analysis
 <p align="center">
 <img src="https://raw.githubusercontent.com/sathviknanduri/sathviknanduri/output/github-contribution-grid-snake.svg">
 </p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sathviknanduri&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sathviknanduri&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+
+<sub><i>Designed with 💻 and ☕ by Sathvik Nanduri</i></sub>
+
+</div>
