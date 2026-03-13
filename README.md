@@ -34,9 +34,10 @@ sathvik = {
 
 | Category | Tools & Technologies |
 |---|---|
-| **Programming** | <img src="https://skillicons.dev/icons?i=mysql" /> |
-| **Data Science** | <img src="https://skillicons.dev/icons?i=python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> |
+| **Programming** | <img src="https://skillicons.dev/icons?i=python,mysql" /> |
+| **Data Science** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> |
 | **Machine Learning** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> |
+| **Data Visualization** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> |
 | **Development Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" /> |
 
 ---
