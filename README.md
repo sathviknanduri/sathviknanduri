@@ -36,7 +36,7 @@ sathvik = {
 |---|---|
 | **Programming & Databases** | <img src="https://skillicons.dev/icons?i=python,mysql,postgres" /> |
 | **Data Science & Analytics** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> |
-| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" /> <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/> <img src="https://img.icons8.com/color/48/jupyter.png" width="40"/> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" /> <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/> |
 
 ---
 
