@@ -111,5 +111,5 @@ Python • SQL • Data Analysis
 ## 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rajasathvik/rajasathvik/output/snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/sathviknanduri/sathviknanduri/output/github-contribution-grid-snake.svg">
 </p>
