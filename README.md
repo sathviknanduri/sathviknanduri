@@ -46,38 +46,40 @@ sathvik = {
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" align="center">
 
-<img src="https://img.icons8.com/fluency/48/fire-element.png"/>
+<img src="https://img.icons8.com/fluency/40/fire-element.png"/>
 
-### Forest Fire Prediction
+#### Forest Fire Prediction
 
-<i>Machine learning model that predicts the probability of forest fires using environmental and meteorological data.</i>
+<sub>
+Machine learning model that predicts forest fire probability using environmental data.
+</sub>
 
-🧠 **Tech Stack**  
-Python • Pandas • NumPy • Scikit-Learn  
+**Tech Stack:**  
+<sub>Python • Pandas • NumPy • Scikit-Learn</sub>
 
-<a href="https://github.com/sathviknanduri/Forest-Fire-Prediction-ML">Project Repository</a>
+**Repository:**  
+<a href="https://github.com/sathviknanduri/Forest-Fire-Prediction-ML">View Project</a>
 
-</div>
 </td>
 
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" align="center">
 
-<img src="https://img.icons8.com/fluency/48/pizza.png"/>
+<img src="https://img.icons8.com/fluency/40/pizza.png"/>
 
-### Pizza Hut Sales Analysis
+#### Pizza Hut Sales Analysis
 
-<i>Data analysis project exploring Pizza Hut sales trends, revenue patterns and business insights.</i>
+<sub>
+Data analysis project exploring Pizza Hut sales trends and revenue insights.
+</sub>
 
-📊 **Tech Stack**  
-Python • SQL • Data Analysis  
+**Tech Stack:**  
+<sub>Python • SQL • Data Analysis</sub>
 
-<a href="https://github.com/sathviknanduri/Pizza-Hut-Sale">Project Repository</a>
+**Repository:**  
+<a href="https://github.com/sathviknanduri/Pizza-Hut-Sale">View Project</a>
 
-</div>
 </td>
 
 </tr>
