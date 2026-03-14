@@ -1,6 +1,6 @@
 <h2>
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-Hello, I'm Sathvik Nanduri! 
+Hello, I'm Raja Sathvik Nanduri! 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h2>
 
@@ -8,8 +8,8 @@ Hello, I'm Sathvik Nanduri!
 
 <p>
 <em>
-<b>Data Scientist | AI Enthusiast | Analytical Data Professional</b><br>
-B.Tech Graduate in <b>Artificial Intelligence & Data Science</b>
+<b> Data Analyst <b> 
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em>
 </p>
 
